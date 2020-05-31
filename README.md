@@ -1,2 +1,2 @@
 # GitTest
-Its time to test github
+Its time testing github
